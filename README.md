@@ -1,6 +1,6 @@
 # Arduino Robot
 
-![Arduino Robot](imagens/foto-do-carrinho.jpg)
+![Arduino Robot](img/foto-do-carrinho.jpg)
 
 Carrinho robô autônomo programado via Arduino para desviar de obstáculos.
 
